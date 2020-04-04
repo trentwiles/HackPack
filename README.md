@@ -1,12 +1,13 @@
 HackPack
 ========
-*"The best way to trick friends"*
+*"The best way to trick friends with hacks!"*
 ## What is HackPack?
-HackPack is a starter kit to tricking your friends with "hacks".
+HackPack is a starter kit to tricking your friends with "hacks" on the command line because
+years of movies and TV from Hollywood have taught us that black screens with green or white text
+mean **hackers!**
 
 ## Tutorials:
 [Riverside Rocks Blog](https://riverside.rocks/blog/trick-friends)
-*Just a note: This tutorial only teaches you how to setup the basic edition.*
 
 ## Notes: 
 In this tutorial I used (friend name)/index.php because I used the PHP to write notes that could not be viewed in the source. If you are hosting this code outside of Glitch, you can delete `glitch.json`
