@@ -1,18 +1,13 @@
 #include <stdio.h>
 int main( ) {
 
-   int pass;
-   int realpass = "ok";
+   char pass;
+   char realpass = "ok";
   
    printf( "Government Database. DO NOT ATTEMPT TO HACK/BYPASS THIS DATABASE");
    printf( " " );
    printf( "Enter your password :");
    pass = getchar( );
-   if(pass == realpass){
-     printf("Thank you. You have logged in.");
-   } else{
-   printf( "\nYou entered: ");
-   putchar( pass );
-   }
+   printf("Thank you. You have logged in.");
    return 0;
 }
