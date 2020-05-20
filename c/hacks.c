@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <time.h>
-#include <unistd.h>
 
 int main( ) {
 
@@ -21,7 +19,6 @@ int main( ) {
      printf("aW4gd2VsY29tZQ");
      printf("aW4gcm9ibG94Y29vbA");
     breakwhile = breakwhile + 1; 
-    sleep(10000);                        
    }
    breakwhile = 0;
    printf( "\n " );
