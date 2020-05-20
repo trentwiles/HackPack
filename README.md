@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HackPack
 ========
 *"The best way to trick friends with hacks!"*
@@ -18,3 +19,8 @@ Photo of the basic edition
 ## Advanced
 Our advanced tutorial uses a .sh (shell script) file. Before you can run it, you will need to excute it.
 Do this by running `chmod +x (filename).sh`. The run `./(filename).sh` to run it.
+=======
+# HackPack
+A great way to prank your friends with "Hacks"
+To view the code, please go to the Glitch branch.
+>>>>>>> 65cd4c23d4adf9871a0fed49b9788884b3364cd9
