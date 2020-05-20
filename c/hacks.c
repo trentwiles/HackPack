@@ -1,4 +1,7 @@
 #include <stdio.h>
+#include <time.h>
+#include <unistd.h>
+
 int main( ) {
 
    char pass;
@@ -18,7 +21,7 @@ int main( ) {
      printf("aW4gd2VsY29tZQ");
      printf("aW4gcm9ibG94Y29vbA");
     breakwhile = breakwhile + 1; 
-     for (i=1 ; i<100000 ; i++);
+    sleep(10000);                        
    }
    breakwhile = 0;
    printf( "\n " );
@@ -28,7 +31,8 @@ int main( ) {
    printf( "\n Enter the name of the person who you would like to view:");
    friend = getchar( );
    printf( "\n Scanning records for the user you requested.");
-  
+   for (i=1 ; i<100000000 ; i++);
+   printf( "\n Test");
   
    return 0;
 }
