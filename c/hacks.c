@@ -8,11 +8,6 @@ int main( ) {
    printf( " " );
    printf( "Enter your password :");
    pass = getchar( );
-   if(pass == realpass){
-     printf("Thank you. You have logged in.");
-   } else{
-   printf( "\nYou entered: ");
-   putchar( pass );
-   }
+   printf("Thank you. You have logged in.");
    return 0;
 }
