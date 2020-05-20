@@ -1,37 +1,20 @@
-Welcome to Glitch
-=================
+HackPack
+========
+*"The best way to trick friends with hacks!"*
+## What is HackPack?
+HackPack is a starter kit to tricking your friends with "hacks" on the command line because
+years of movies and TV from Hollywood have taught us that black screens with green or white text
+mean **hackers!**
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+## Tutorials:
+[Riverside Rocks Blog](https://riverside.rocks/blog/trick-friends)
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+## Notes: 
+In this tutorial I used (friend name)/index.php because I used the PHP to write notes that could not be viewed in the source. If you are hosting this code outside of Glitch, you can delete `glitch.json`
 
-Find out more [about Glitch](https://glitch.com/about).
+Photo of the basic edition
+![alt text](https://cdn.glitch.com/fdea39ec-5d86-4489-aed4-dab5ea2cc871%2Fterminal-gif.gif?v=1584805853855")
 
-
-Your Project
-------------
-
-### ← README.md
-
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+## Advanced
+Our advanced tutorial uses a .sh (shell script) file. Before you can run it, you will need to excute it.
+Do this by running `chmod +x (filename).sh`. The run `./(filename).sh` to run it.
